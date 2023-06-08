@@ -1,0 +1,162 @@
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+.card-body {
+
+  height: 500px;
+  width: 500px;
+  padding: card-spacer-x;
+}
+
+.center{
+  margin-left: 20px;
+}
+
+
+.card-body {
+
+  height: 500px;
+  width: 500px;
+  padding: $card-spacer-x;
+}
+
+.navbar-brand{
+  margin-left: 360px;
+  font-weight: bolder;
+}
+
+.SideBar{
+  /* display: flex; */
+  /* flex-direction: column; */
+  height: 100vh;
+  width: 80px;
+  background-color: black;
+  position: fixed;
+}
+
+/* .pro-sidebar{
+  min-width: 222px;
+  
+}
+.pro-sidebar.header{
+  margin-left: 29px;
+} */
+
+.sidenav{
+  margin-top: 73px;
+  margin-left: 38px;
+  
+}
+
+.bg{
+  
+  background-color:blueviolet;
+  
+}
+
+.Cardupdate{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+
+
+/* LoginPageCSS */
+.backbg{
+  height: 100vh;
+  width: 100%;
+  background:linear-gradient(45deg, #900098, transparent);
+  position: fixed;
+}
+.portalbg{
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+}
+.fmm{
+  display:flex;
+  justify-content:space-between;
+  width:950px; 
+  height:492px; 
+  background-color:white;
+  margin-top:-20px;
+  margin-left:295px; 
+  border-radius:12px
+}
+.fm{
+  width: 500px;
+  margin-left: 6px;
+  height:485px;
+  background:linear-gradient(45deg, #ebfdff, transparent); ;
+  margin-top:3px 
+}
+.lgnpic{
+  width:502px;
+  margin-right:300px;
+  margin-left:11px;
+  height:492px;
+  border-radius:12px;
+}
+
+
+
+/* VALIDATION */
+.textRight{
+  text-align: right !important;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: smaller;
+}
+.hidden{
+   display: none;
+}
+
+
+.userbg{
+  height:100%;
+  width: 100%;
+  position: fixed;
+  background-repeat: no-repeat;
+  /* background-color: burlywood; */
+  /* background-image: url("https://cdn.dribbble.com/users/2071006/screenshots/14330179/media/13d48114477bad17305590781e4cf758.png?compress=1&resize=400x300"); */
+  
+}

@@ -1,0 +1,21 @@
+.form {
+    align-text: center;
+}
+
+@media only screen and (min-width : 1200px) {
+
+    .container {
+        width: 2000px;
+    }
+
+}
+
+.img {
+    position: center;
+    height: 60px;
+    width: 100px;
+}
+
+.mt-5 {
+    background-color:rgb(233, 152, 152);
+}
